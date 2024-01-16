@@ -30,8 +30,8 @@ module.exports = () => {
         fingerprint: false,
         inject: true,
         name: 'Next Text Editor',
-        background_color: grey,
-        theme_color: grey,
+        background_color: 'grey',
+        theme_color: 'grey',
         start_url: '/',
         publicPath: '/',
         icons: [
